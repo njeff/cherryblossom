@@ -17,3 +17,5 @@ The APDS-9960 gesture sensor can detect proximity, brightness, color, or gesture
 PCB gerbers and schematic are in the `pcb` folder.
 
 A 3D model of the case and plate without the gesture sensor hole is in the model folder called `numpad_nogesture.step`. If you want the hole for the gesture sensor, use the model `numpad_gesture.step`. The body thicknesses are slightly different because they came from different models where I had different material thicknesses set for CNC operations.
+
+The firmware for the numpad is under my personal fork of the QMK firmware.
