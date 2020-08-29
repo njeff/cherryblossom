@@ -1,0 +1,24 @@
+Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor,Mouser
+"C1, C2, ",2,10p,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,,581-06035A100J
+"C3, C5, ",2,1u,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,,603-CC603KRX5R8BB105
+"C4, C7, C8, C9, C10, C11, C12, C13, C14, C15, ",10,0.1u,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,,
+"C6, ",1,10u,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,,581-0603ZD106KAT2A
+"D1, ",1,LED,LED,LED_SMD:LED_0603_1608Metric,Light emitting diode,,710-150060YS55040
+"D2, D7, D12, D17, D13, D8, D3, D18, D4, D9, D14, D19, D15, D10, D5, D20, D16, D11, D6, D21, ",20,D,D,Diode_SMD:D_SOD-323,Diode,,863-BAS16HT1G
+"D22, D23, D24, D25, D26, D27, D28, D29, D30, ",9,APA102C_5050,APA102C_5050,LED_SMD:LED_RGB_5050-6,APA102C Addressable LED,,
+"F1, ",1,Polyfuse,Polyfuse,Fuse:Fuse_1206_3216Metric,"Resettable fuse, polymeric positive temperature coefficient",,504-PTS120615V050
+"J1, ",1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_USB2.0,personal_f:USB_C_16P,USB 2.0-only Type-C Receptacle connector,,
+"J2, ",1,AVR-ISP-6,AVR-ISP-6,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD,Atmel 6-pin ISP connector,,
+"J4, J3, ",2,Conn_01x01,Conn_01x01,Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",,
+"J5, ",1,Conn_01x04,Conn_01x04,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",,
+"R2, R1, ",2,22,R,Resistor_SMD:R_0603_1608Metric,Resistor,,71-CRCW060322R0FKEAC
+"R3, R5, R9, R8, ",4,10k,R,Resistor_SMD:R_0603_1608Metric,Resistor,,
+"R4, ",1,1k,R,Resistor_SMD:R_0603_1608Metric,Resistor,,
+"R7, R6, ",2,5.1k,R,Resistor_SMD:R_0603_1608Metric,Resistor,,71-CRCW06035K10FKEAC
+"SW1, ",1,Rotary_Encoder_Switch,Rotary_Encoder_Switch,personal_f:EC12D15_Encoder_With_Pushbutton,"Rotary encoder, dual channel, incremental quadrate outputs, with switch",,688-EC12D1524403
+"SW2, ",1,SW_SPST,SW_SPST,Button_Switch_SMD:SW_SPST_SKQG_WithStem,Single Pole Single Throw (SPST) switch,,688-SKQGAKE010
+"SW3, SW8, SW13, SW18, SW4, SW9, SW14, SW19, SW5, SW10, SW15, SW20, SW6, SW11, SW16, SW21, SW7, SW12, SW17, SW22, ",20,SW_SPST,SW_SPST,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,Single Pole Single Throw (SPST) switch,,
+"SW23, ",1,SW_SPST,SW_SPST,Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB,Single Pole Single Throw (SPST) switch,,
+"SW25, SW24, ",2,SW_SPST,SW_SPST,personal_f:SW_Cherry_MX_2.00u_Vertical_PCB_Flip,Single Pole Single Throw (SPST) switch,,
+"U1, ",1,ATmega32U4-AU,ATmega32U4-AU,Package_QFP:TQFP-44_10x10mm_P0.8mm,"16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44",,556-ATMEGA32U4-AU
+"Y1, ",1,16MHz,Crystal_GND24,Crystal:Crystal_SMD_EuroQuartz_MT-4Pin_3.2x2.5mm,"Four pin crystal, GND on pins 2 and 4",,732-TX325-16F09Z-AC3
